@@ -1,0 +1,5 @@
+{
+  "name": "WorldBuilder AI",
+  "description": "Uma ferramenta inteligente para construção de mundos (Worldbuilding) que preenche automaticamente templates baseados em seus textos e notas, com um assistente de IA integrado.",
+  "requestFramePermissions": []
+}
